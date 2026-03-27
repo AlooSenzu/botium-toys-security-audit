@@ -9,6 +9,8 @@
 
 [View Report](./network-incident-report.md)
 
+---
+
 ## 📌 Overview
 This project presents an internal security audit conducted for a fictional company, Botium Toys, using the NIST Cybersecurity Framework (CSF).
 
