@@ -1,4 +1,6 @@
 # 🔐 Botium Toys Security Audit
+## 📄 Full Audit Report
+[Download the full security audit](./Botium-Toys-Security-Audit.pdf)
 
 ## 📌 Overview
 This project presents an internal security audit conducted for a fictional company, Botium Toys, using the NIST Cybersecurity Framework (CSF).
