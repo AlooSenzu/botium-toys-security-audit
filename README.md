@@ -2,6 +2,13 @@
 ## 📄 Full Audit Report
 [Download the full security audit](./Botium-Toys-Security-Audit.pdf)
 
+## Network Traffic Analysis
+- Investigated DNS failure using tcpdump logs
+- Identified ICMP "port 53 unreachable" errors
+- Diagnosed DNS service/network issue
+
+[View Report](./network-incident-report.md)
+
 ## 📌 Overview
 This project presents an internal security audit conducted for a fictional company, Botium Toys, using the NIST Cybersecurity Framework (CSF).
 
