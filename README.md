@@ -63,3 +63,9 @@ The organization has a **high risk score (8/10)** due to:
 
 ## 🚀 Author
 Aspiring cybersecurity analyst with a multidisciplinary background in Informatics, Sociology, and Digital Marketing, focused on risk analysis, security controls, and data protection.
+
+---
+
+## 📊 Risk Assessment Summary
+
+Based on the audit report, Botium Toys has a high-risk score (8/10) due to insufficient controls, weak access management, and lack of encryption. Immediate remediation is required to prevent potential data breaches and compliance violations.
